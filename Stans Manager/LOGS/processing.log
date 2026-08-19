@@ -1,0 +1,6 @@
+2026-08-12 13:08:33 | INFO | PROCESSING | input='input.pdf' | output='output.pdf' | modus='rechthoek' | breedte=100.0 | hoogte=50.0 | radius=3.0 | diameter=None | bleed=2.0 | spotnaam='CutContour'
+2026-08-12 13:08:33 | ERROR | Er is een testfout opgetreden. | Exception: Testfout
+Traceback (most recent call last):
+  File "/Users/ron/PycharmProjects/streamlit_tools_clean/Stans Manager Scaffold/logger_manager.py", line 165, in <module>
+    raise ValueError("Testfout")
+ValueError: Testfout
